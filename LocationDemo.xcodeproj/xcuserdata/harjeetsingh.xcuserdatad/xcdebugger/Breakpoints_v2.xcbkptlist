@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A9BEC9FB-48A6-4CFA-87B1-C70D03D4DD2E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "254FD536-FD48-44A4-B259-59AE8600F89C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocationDemo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "getAdress(location:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "254FD536-FD48-44A4-B259-59AE8600F89C - 8a78f7c174f68aac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in LocationDemo.ViewController.getAdress(location: __C.CLLocation) -&gt; ()"
+                  moduleName = "LocationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harjeetsingh/Desktop/LocationDemo/LocationDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "800">
+               </Location>
+               <Location
+                  uuid = "254FD536-FD48-44A4-B259-59AE8600F89C - 8a78f7c174f68aac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in LocationDemo.ViewController.getAdress(location: __C.CLLocation) -&gt; ()"
+                  moduleName = "LocationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harjeetsingh/Desktop/LocationDemo/LocationDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "856">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3E8A6DF-CA36-45CF-9D4C-03A89BDA8186"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocationDemo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "getAdress(location:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A3E8A6DF-CA36-45CF-9D4C-03A89BDA8186 - 8a78f7c174f68acd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in LocationDemo.ViewController.getAdress(location: __C.CLLocation) -&gt; ()"
+                  moduleName = "LocationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harjeetsingh/Desktop/LocationDemo/LocationDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "952">
+               </Location>
+               <Location
+                  uuid = "A3E8A6DF-CA36-45CF-9D4C-03A89BDA8186 - 8a78f7c174f68acd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in LocationDemo.ViewController.getAdress(location: __C.CLLocation) -&gt; ()"
+                  moduleName = "LocationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harjeetsingh/Desktop/LocationDemo/LocationDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "1008">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F8610556-9F53-49DA-823C-076FF542943E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocationDemo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "getAdress(location:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F8610556-9F53-49DA-823C-076FF542943E - 8a78f7c174f68a41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in LocationDemo.ViewController.getAdress(location: __C.CLLocation) -&gt; ()"
+                  moduleName = "LocationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harjeetsingh/Desktop/LocationDemo/LocationDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "F8610556-9F53-49DA-823C-076FF542943E - 8a78f7c174f68a41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in LocationDemo.ViewController.getAdress(location: __C.CLLocation) -&gt; ()"
+                  moduleName = "LocationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harjeetsingh/Desktop/LocationDemo/LocationDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "392">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
