@@ -101,5 +101,8 @@ if UIApplication.shared.canOpenURL(settingsUrl) {
 extension UIViewController{
     func addnew(){
         // add two numbers
+        let a = 5
+        let b = 8
+        let c = a+b
     }
 }
