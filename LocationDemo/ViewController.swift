@@ -100,6 +100,6 @@ if UIApplication.shared.canOpenURL(settingsUrl) {
  
 extension UIViewController{
     func addnew(){
-        
+        // add two numbers
     }
 }
