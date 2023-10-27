@@ -97,3 +97,9 @@ if UIApplication.shared.canOpenURL(settingsUrl) {
             self.present(alert, animated: true, completion: nil)
     }
 }
+ 
+extension UIViewController{
+    func addnew(){
+        
+    }
+}
