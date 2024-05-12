@@ -2,8 +2,6 @@
 //  ApiManager.swift
 //  DemoApp
 //
-//  Created by Gaurav Sethi on 23/04/24.
-//
 
 import Foundation
 import UIKit
